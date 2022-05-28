@@ -1,5 +1,5 @@
 # Transcription
-course work 
+Course work 
 
 # Getting started
 ## Prerequisites
