@@ -15,6 +15,6 @@ To install this project on your local machine, you should run the following comm
 ```
 git init
 git clone https://github.com/notoneko/transcription.git
-cd trancsription
+cd transcription
 ```
 
